@@ -1,7 +1,10 @@
+NeoBundle 'altercation/vim-colors-solarized'
+
+syntax enable
 set background=dark
-"set background=light
 colorscheme solarized
-g:solarized_termcolors=   256
+
+"g:solarized_termcolors =  256
 " g:solarized_termtrans =   0
 " g:solarized_degrade   =   0
 " g:solarized_bold      =   1
